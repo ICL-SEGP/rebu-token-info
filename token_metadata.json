@@ -1,6 +1,6 @@
 {
   "name": "Rebu token",
   "symbol": "REBU",
-  "description": "TODO",
-  "image": "https://github.com/ICL-SEGP/rebu/blob/token/token-info/segp_token.png?raw=true"
+  "description": "A token to reward users that buy from an affiliate. These can be exchanged for items.",
+  "image": "https://raw.githubusercontent.com/ICL-SEGP/rebu-token-info/8e6e5cf9f92c4f2a05fdf56aa6c753eadc56406e/segp_token.png"
 }
